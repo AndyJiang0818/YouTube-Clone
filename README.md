@@ -1,7 +1,7 @@
 # YouTube Clone
 
 ## Demo
-### []()
+### [Deployed on Netlify, Check it out](https://unrivaled-pegasus-62f076.netlify.app/)
 
 ## Overview
 ### Idea
@@ -14,6 +14,7 @@
 - React.js
 - Redux.js
 - RapidAPI (YouTube v3)
+- Netlify
 
 ## Run
 ### `npm start`
